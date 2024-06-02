@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.container-fluid {
+  background-image: url(https://gcs.tripi.vn/public-tripi/tripi-feed/img/474077eKq/background-den-trang-tuyet-dep_024340518.jpg);
+  height: 729px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.imgGlass {
+  width: 150px;
+}
+
+.glassPosition {
+  position: relative;
+}
+
+.modelGlass {
+  position: absolute;
+  /* background: url(../public/BTGLass/glassesImage/v2.png); */
+  top: 107px;
+  left: 325px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 110px;
+  height: 20%;
+}
